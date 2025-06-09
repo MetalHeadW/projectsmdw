@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 public class Exercicio5 {
 	
-	public static void main(String[] args) {
+	public static void main(String[] args, int i) {
 		int op = 0;
 		do {
 			op = escolheMenu();
