@@ -1,3 +1,5 @@
+package provas;
+
 import javax.swing.JOptionPane;
 
 public class Prova3 {
